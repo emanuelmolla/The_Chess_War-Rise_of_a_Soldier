@@ -14,7 +14,7 @@ This game showcases multiple elements of clean, modular Python development.
 ## 👷 Developer
 **Emanuel Fisha Molla**
 
- Github: [@Emanuel-DevX](https://github.com/emanuelmolla)
+ Github: [@emanuelmolla](https://github.com/emanuelmolla)
 
 **Student Number**: A01411440
 
